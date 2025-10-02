@@ -1,4 +1,3 @@
-[![Run Phishing Detector](https://github.com/<OWNER>/<REPO>/workflows/Run%20Phishing%20Detector/badge.svg)](https://github.com/<OWNER>/<REPO>/actions/workflows/run_detector.yml)
 
 # AI Phishing Detector 🚨
 
